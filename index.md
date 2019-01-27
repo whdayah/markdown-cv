@@ -13,9 +13,9 @@ Magelang, 18 July 1997
 
 ## Address
 
-Kapling Jayan, Borobudur 
+- Kapling Jayan, Borobudur 
 
-Jl. Tubagus Ismail Dalam, Kota Bandung
+- Jl. Tubagus Ismail Dalam, Kota Bandung
 
 ## Language
 
@@ -23,9 +23,9 @@ Indonesia, Javanese, English, Deutsch
 
 ## Contact
 
-087722886690
-linkedin: Wakhidati Hidayah
-email: wakhidatihidayah54@gmail.com
+- 087722886690
+- linkedin: Wakhidati Hidayah
+- email: wakhidatihidayah54@gmail.com
 
 ## Education
 
