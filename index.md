@@ -7,11 +7,6 @@ title: Wakhidati Hidayah's CV
 Final Year Telecommunication Engineering Student, ITB
 
 
-## Address
-
-__Kapling Jayan, Borobudur, RT.001/RW.001, Magelang__
-
-
 ## Place, date of birth
 
 Magelang, 18 July 1997
