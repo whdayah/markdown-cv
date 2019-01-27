@@ -15,14 +15,19 @@ Final Year Telecommunication Engineering, ITB
 
 Magelang, 18 July 1997
 
-### Adress
+### Address
 
 Kapling Jayan, Borobudur 
+
 Jl. Tubagus Ismail Dalam, Kota Bandung
 
 ### Language
 
 Indonesia, Javanese, English, Deutsch
+
+## Contact
+
+087722886690
 
 ## Education
 
@@ -51,6 +56,17 @@ Head of Competition Event - Telemotion 2018
 
 `2018`
 Laboratory Assistant of Discrete Time Signal Processing
+
+## Skills
+- Adaptability
+- Critical Thinking
+- Time Management
+
+## Interest
+- Photograph
+- Disscusion in social issue
+- Networking
+
 
 
 
