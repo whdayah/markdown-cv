@@ -14,7 +14,7 @@ Magelang, 18 July 1997
 
 ## Address
 
-Kapling Jayan, Borobudur, RT.001/RW.001, Magelang
+__Kapling Jayan, Borobudur, RT.001/RW.001, Magelang__
 
 
 ## Language
@@ -29,13 +29,13 @@ Indonesia, Javanese, English, Deutsch
 ## Education
 
 `2003 - 2009`
-__SD N Borobudur 1.__
+__SD N Borobudur 1__
 
 `2009 - 2012`
-__SMP N 1 Muntilan.__
+__SMP N 1 Muntilan__
 
 `2012 - 2015`
-__SMA N 1 Muntilan.__
+__SMA N 1 Muntilan__
 - IPA
 
 `2015 - now`
@@ -46,11 +46,11 @@ __Telecommunication Engineering, ITB__
 
 `2018`
 Internship
-- AirNav Indonesia
+- __AirNav Indonesia__
 
 `2018`
 Head of Competition Event 
-- Telemotion 2018
+- __Telemotion 2018__
 
 `2018`
 Laboratory Assistant of Discrete Time Signal Processing
