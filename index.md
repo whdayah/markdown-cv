@@ -6,15 +6,12 @@ title: Wakhidati Hidayah's CV
 
 Final Year Telecommunication Engineering Student, ITB
 
-<a href="https://www.linkedin.com/in/wakhidati-hidayah-b9953713a/">My Linkedin profile</a>
-</div>
-
 
 ## Place, date of birth
 
 Magelang, 18 July 1997
 
-### Address
+## Address
 
 Kapling Jayan, Borobudur 
 
@@ -27,6 +24,8 @@ Indonesia, Javanese, English, Deutsch
 ## Contact
 
 087722886690
+linkedin: Wakhidati Hidayah
+email: wakhidatihidayah54@gmail.com
 
 ## Education
 
