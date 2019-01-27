@@ -12,21 +12,16 @@ Final Year Telecommunication Engineering Student, ITB
 Magelang, 18 July 1997
 
 ## Address
+Kapling Jayan, Borobudur, RT.001/RW.001, Magelang
 
-- Kapling Jayan, Borobudur 
-
-- Jl. Tubagus Ismail Dalam, Kota Bandung
 
 ## Language
 
 Indonesia, Javanese, English, Deutsch
 
 ## Contact
-
-- 087722886690
-
+087722886690
 - linkedin: Wakhidati Hidayah
-
 - email: wakhidatihidayah54@gmail.com
 
 ## Education
