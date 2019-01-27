@@ -11,7 +11,9 @@ Final Year Telecommunication Engineering Student, ITB
 
 Magelang, 18 July 1997
 
+
 ## Address
+
 Kapling Jayan, Borobudur, RT.001/RW.001, Magelang
 
 
