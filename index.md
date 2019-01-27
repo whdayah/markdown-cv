@@ -3,11 +3,10 @@ layout: cv
 title: Wakhidati Hidayah's CV
 ---
 # Wakhidati Hidayah
+
 Final Year Telecommunication Engineering Student, ITB
 
-<div id="wakhidatihidayah54@gmail.com">
-<a href="wakhidatihidayah54@gmail.com">wakhidatihidayah54@gmail.com</a>
-| <a href="https://www.linkedin.com/in/wakhidati-hidayah-b9953713a/">My Linkedin profile</a>
+<a href="https://www.linkedin.com/in/wakhidati-hidayah-b9953713a/">My Linkedin profile</a>
 </div>
 
 
