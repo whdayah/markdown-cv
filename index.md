@@ -21,7 +21,7 @@ Kapling Jayan, Borobudur
 
 Jl. Tubagus Ismail Dalam, Kota Bandung
 
-### Language
+## Language
 
 Indonesia, Javanese, English, Deutsch
 
@@ -49,10 +49,11 @@ __Telecommunication Engineering, ITB__
 
 `2018`
 Internship
-AirNav Indonesia
+- AirNav Indonesia
 
 `2018`
-Head of Competition Event - Telemotion 2018
+Head of Competition Event 
+- Telemotion 2018
 
 `2018`
 Laboratory Assistant of Discrete Time Signal Processing
